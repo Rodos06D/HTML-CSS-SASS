@@ -1,0 +1,73 @@
+.detenteur {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.liste1 {
+  font-size: 18px;
+  font-style: italic;
+  text-decoration: underline;
+  color: blue;
+}
+
+.en {
+  color: white;
+  background-color: black;
+  opacity: 0.5;
+}
+
+n .element p {
+  color: plum;
+}
+
+.border {
+  border-radius: 1px solid red;
+}
+
+.box__1 {
+  height: 50px;
+  width: 50px;
+  background-color: bisque;
+}
+.box__2 {
+  height: 50px;
+  width: 50px;
+  background-color: teal;
+}
+.box__3 {
+  height: 50px;
+  width: 50px;
+  background-color: khaki;
+}
+
+.bex__1 {
+  height: 50px;
+  width: 50px;
+  background-color: bisque;
+}
+.bex__2 {
+  height: 50px;
+  width: 50px;
+  background-color: royalblue;
+}
+.bex__3 {
+  height: 50px;
+  width: 50px;
+  background-color: goldenrod;
+}
+.bex__4 {
+  height: 50px;
+  width: 50px;
+  background-color: salmon;
+}
+.bex__5 {
+  height: 50px;
+  width: 50px;
+  background-color: olive;
+}
+
+/*# sourceMappingURL=style.css.map */
