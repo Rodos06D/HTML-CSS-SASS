@@ -1,0 +1,81 @@
+.detenteur{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+h1{
+    text-align: center;
+}
+
+.liste1{
+    font-size: 18px;
+    font-style: italic;
+    text-decoration: underline;
+    color: blue;
+}
+
+.en{
+    color: white;
+    background-color: black;
+    opacity: 0.5;
+}n
+
+.element p {
+ color: plum;
+}
+
+.border{
+    border-radius: 1px solid red;
+}
+
+.box{
+    &__1{
+        height: 50px;
+        width: 50px;
+        background-color: bisque;
+    }
+
+    &__2{
+        height: 50px;
+        width: 50px;
+        background-color: teal;
+    }
+
+    &__3{
+        height: 50px;
+        width: 50px;
+        background-color: khaki;
+    }
+}
+
+.bex{
+    &__1{
+        height: 50px;
+        width: 50px;
+        background-color: bisque;
+    }
+
+    &__2{
+        height: 50px;
+        width: 50px;
+        background-color: royalblue;
+    }
+
+    &__3{
+        height: 50px;
+        width: 50px;
+        background-color: goldenrod;
+    }
+
+    &__4{
+        height: 50px;
+        width: 50px;
+        background-color: salmon;
+    }
+
+    &__5{
+        height: 50px;
+        width: 50px;
+        background-color: olive;
+    }
+}
